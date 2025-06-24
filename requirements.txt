@@ -1,0 +1,5 @@
+openai-agents
+chainlit
+pydantic-ai
+asyncio
+python-dotenv

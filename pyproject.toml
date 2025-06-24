@@ -1,0 +1,13 @@
+[project]
+name = "crypto-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "asyncio>=3.4.3",
+    "chainlit>=2.5.5",
+    "openai-agents>=0.0.19",
+    "pydantic-ai>=0.3.3",
+    "python-dotenv>=1.1.1",
+]
